@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ###### Welcome to my world🌍
 
-- This is my little workshop. There isn't much but its honest work😅
+- This is my little workshop
 - I’m learning kotlin and golang but have some experience with java
 - Currently enrolled in GADS2020
 - I’ll be pushing more projects soon
