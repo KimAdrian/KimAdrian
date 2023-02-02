@@ -1,6 +1,6 @@
-<img align="right" src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" height="250px"/>
+<img align="right" src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" height="250px"/>
 <h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
-I'm Adrian, I like to build stuff.
+I'm Adrian, I like to build stuff. Welcome to my world 🌍
 </br>
 </br>
 <p>
@@ -18,15 +18,13 @@ I'm Adrian, I like to build stuff.
   </a>&nbsp;&nbsp;
  </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-<h3>Stats</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&redirect=true)
+ </br>
 <center>
   <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=KimAdrian&count_private=true&show_icons=true&theme=tokyonight&layout=compact" /></td>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight" /></td>      
+      <td><img width="400px" align="centre" src="https://github-readme-stats.vercel.app/api?username=KimAdrian&count_private=true&show_icons=true&theme=tokyonight&layout=compact" /></td>
+      <td><img width="400px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight" /></td>      
   </tr>   
 </table>
 </center>
