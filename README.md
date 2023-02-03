@@ -1,7 +1,6 @@
-<h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+<h2 align="center">Hello there, I'm Adrian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Adrian.++Welcome+to+my+world)](https://git.io/typing-svg)
- 
+
 <p align="center">
  <a href="https://twitter.com/IAdrianKim">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
