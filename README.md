@@ -1,6 +1,6 @@
 <h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?Code&pause=1000&center=true&vCenter=true&multiline=false&width=435&height=50&lines=Hi%2C+I'm+Adrian.+Welcome+to+my+world+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Adrian.++Welcome+to+my+world)](https://git.io/typing-svg)
  
 <p align="center">
  <a href="https://twitter.com/IAdrianKim">
@@ -17,14 +17,14 @@
   </a>&nbsp;&nbsp;
  </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&redirect=true)
  </br>
-<center>
-  <table>
-  <tr>
-      <td><img width="400px" align="centre" src="https://github-readme-stats.vercel.app/api?username=KimAdrian&count_private=true&show_icons=true&theme=tokyonight&layout=compact" /></td>
-      <td><img width="400px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight" /></td>      
-  </tr>   
-</table>
-</center>
+<p align="center">                                                                                                             
+<img height="200px" align="centre" src="https://github-readme-stats.vercel.app/api?username=KimAdrian&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />&nbsp;
+ <img height="200px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
