@@ -1,9 +1,8 @@
-<img align="right" src="https://media.giphy.com/media/TLnWsIBRegQyWxG4Dw/giphy.gif" height="250px"/>
-<h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
-I'm Adrian, I like to build stuff. Welcome to my world 🌍
-</br>
-</br>
-<p>
+<h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Adrian;Welcome+to+my+world+)](https://git.io/typing-svg)
+ 
+<p align="center">
  <a href="https://twitter.com/IAdrianKim">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
