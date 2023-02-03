@@ -1,6 +1,6 @@
 <h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Adrian;Welcome+to+my+world+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?Code&pause=1000&center=true&vCenter=true&multiline=false&width=435&height=50&lines=Hi%2C+I'm+Adrian.+Welcome+to+my+world+)](https://git.io/typing-svg)
  
 <p align="center">
  <a href="https://twitter.com/IAdrianKim">
