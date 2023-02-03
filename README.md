@@ -23,8 +23,4 @@
  <img height="180px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=1p20tdscg7k4zx7fxnpvfpijg&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&redirect=true)
