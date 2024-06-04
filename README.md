@@ -30,7 +30,10 @@
   <a href="adriankimutai5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
+ <!--
   <a href="https://adriankim.hashnode.dev/">
     <img src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=Medium&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
+ -->
+ 
