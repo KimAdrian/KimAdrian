@@ -1,25 +1,34 @@
-<h2 align="center">Hello there, I'm Adrian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h2>
- 
+## Hello there, I'm Adrian 👋
+#### I build🏗️ and sometimes write📝
 
-<p align="center">
- <a href="https://twitter.com/IAdrianKim">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
- <a href=https://www.linkedin.com/in/adrian-kimutai-7b6bb221a/">
+### What I use🧑‍💻
+#### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&style=for-the-badge)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
+
+#### Technologies
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=for-the-badge)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android&style=for-the-badge)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&style=for-the-badge)
+
+### Ping me 💬
+<p align="left">
+ <a href="https://www.linkedin.com/in/adriankimutai/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="adriankimutai5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://adriankim.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-2962FF?style=for-the-badge&logo=Medium&logoColor=white" />
   </a>&nbsp;&nbsp;
  </p>
-
- </br>
-<p align="center">                                                                                                             
-<img width="400px" height="180px" align="centre" src="https://github-readme-stats.vercel.app/api?username=KimAdrian&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />&nbsp;
- <img height="180px" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimAdrian&hide=html&layout=compact&theme=tokyonight"/>
-</p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=nk4ordjljkmmbakt5sumgznvu&redirect=true)
