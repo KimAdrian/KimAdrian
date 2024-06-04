@@ -9,16 +9,18 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
 
 #### Technologies
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=for-the-badge)
+![Android](https://img.shields.io/badge/-Android-000?&logo=Android&style=for-the-badge)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=for-the-badge)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=for-the-badge)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&style=for-the-badge)
+
 
 ### Ping me 💬
 <p align="left">
