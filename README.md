@@ -17,7 +17,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=for-the-badge)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&style=for-the-badge)
 
